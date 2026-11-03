@@ -1,6 +1,6 @@
 # Aswina Neupane
 
-I'm a computer science and biology undergraduate at Webster University,
+I'm a computer science and biology undergraduate,
 interested in computational biology, machine learning, and drug discovery.
 
 ## Collaborative Projects
